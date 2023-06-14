@@ -99,6 +99,18 @@ h4 a {
 # My Library
 
 ---
+<details>
+   <summary>
+      <h1>Todo list:</h1>
+   </summary>
+   <p>Study</p>
+   <p>Grocery Shop</p>
+   <p>Clean The House</p>
+</details>
+
+
+
+
 
 <div class="block">
   <input type="radio" name="skill" id="skillA" checked />
