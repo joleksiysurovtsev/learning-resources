@@ -74,15 +74,68 @@
     background-color: hsl(200, 80%, 60%);
     background-image: linear-gradient(-90deg, hsl(200, 80%, 60%), hsl(198,79%,29%) 2em, hsl(197,54%,10%) ); "> 
         <img src="https://cdn4.iconfinder.com/data/icons/school-and-education-6-1/128/267-512.png" alt="English File" width="32" height="32" style="vertical-align: middle; margin-right: 0.5em;">
-        English File
+        English
 </summary>
 
-- [Starter](https://online.flipbuilder.com/mrfx/mrsr/)
-- [Level 1](https://online.flipbuilder.com/mrfx/cpji/)
-- [Level 2](https://online.flipbuilder.com/mrfx/jrhv/)
-- [Level 3A](https://online.flipbuilder.com/mrfx/ikqp/index.html)
-- [Level 3B](https://online.flipbuilder.com/mrfx/evax/)
-- [Level 4](https://www.slideshare.net/rockhero1/american-english-file-4-student-book-second-edition)
-- [Level 5](https://www.slideshare.net/rockhero1/american-english-file-5-student-book-second-edition)
+- [Video tutorials](./english/Videos.md)
+- [Articles](./english/Articles.md)
+- [Literature](./english/Literature.md)
+</details>
+</div>
+
+<div class="accordion">
+<details open id="Kubernetes">
+<summary style="
+    padding: 0.5em 1em;
+    margin: 0;
+    border: 1px solid #aaa; 
+    border-radius: 4px;   
+    background-color: hsl(200, 80%, 60%);
+    background-image: linear-gradient(-90deg, hsl(200, 80%, 60%), hsl(198,79%,29%) 2em, hsl(197,54%,10%) ); "> 
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="32" height="32" style="vertical-align: middle; margin-right: 0.5em;">
+        Kubernetes
+</summary>
+
+- [Video tutorials](./kubernetes/Videos.md)
+- [Articles](./kubernetes/Articles.md)
+- [Literature](./kubernetes/Literature.md)
+</details>
+</div>
+
+<div class="accordion">
+<details open id="kafka">
+<summary style="
+    padding: 0.5em 1em;
+    margin: 0;
+    border: 1px solid #aaa; 
+    border-radius: 4px;   
+    background-color: hsl(200, 80%, 60%);
+    background-image: linear-gradient(-90deg, hsl(200, 80%, 60%), hsl(198,79%,29%) 2em, hsl(197,54%,10%) ); "> 
+        <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="32" height="32" style="vertical-align: middle; margin-right: 0.5em;">
+        kafka
+</summary>
+
+- [Video tutorials](./kafka/Videos.md)
+- [Articles](./kafka/Articles.md)
+- [Literature](./kafka/Literature.md)
+</details>
+</div>
+
+<div class="accordion">
+<details open id="golang">
+<summary style="
+    padding: 0.5em 1em;
+    margin: 0;
+    border: 1px solid #aaa; 
+    border-radius: 4px;   
+    background-color: hsl(200, 80%, 60%);
+    background-image: linear-gradient(-90deg, hsl(200, 80%, 60%), hsl(198,79%,29%) 2em, hsl(197,54%,10%) ); "> 
+        <img src="https://skillicons.dev/icons?i=golang" alt="golang" width="32" height="32" style="vertical-align: middle; margin-right: 0.5em;">
+        GoLang
+</summary>
+
+- [Video tutorials](./golang/Videos.md)
+- [Articles](./golang/Articles.md)
+- [Literature](./golang/Literature.md)
 </details>
 </div>

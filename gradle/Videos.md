@@ -4,6 +4,7 @@
 - [Как подружиться с Gradle](#как-подружиться-с-gradle) Language: `💩` Duration: `1:35:50`
 - [Gradle — Максим Тураев](#gradle--максим-тураев) Language: `💩` Duration: `1:24:59`
 - [Introduction to writing Gradle plugins](#introduction-to-writing-gradle-plugins) Language: `en` Duration: `31:37`
+- [Gradle-tutorial-for-complete-beginners](#Gradle-tutorial-for-complete-beginners) Language: `en` Duration: `24:47`
 
 ---
 ## Video
@@ -25,5 +26,10 @@
 
 ### Introduction to writing Gradle plugins
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/F3DF6bQo6jk/0.jpg)](https://www.youtube.com/watch?v=F3DF6bQo6jk "Introduction to writing Gradle plugins")
+
+---
+
+### Gradle tutorial for complete beginners
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-dtcEMLNmn0/0.jpg)](https://www.youtube.com/watch?v=-dtcEMLNmn0 "Gradle tutorial for complete beginners")
 
 ---
