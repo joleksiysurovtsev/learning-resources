@@ -3,8 +3,7 @@
 
 
 <div class="accordion">
-<details open id="Gradle" class="Gradle"
->
+<details open id="Gradle" class="Gradle">
 <summary style="
     padding: 0.5em 1em;
     margin: 0;
@@ -110,14 +109,79 @@
     border: 1px solid #aaa; 
     border-radius: 4px;   
     background-color: hsl(200, 80%, 60%);
-    background-image: linear-gradient(-90deg, hsl(200, 80%, 60%), hsl(198,79%,29%) 2em, hsl(197,54%,10%) ); "> 
-        <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="32" height="32" style="vertical-align: middle; margin-right: 0.5em;">
-        kafka
+    background-image: linear-gradient(-90deg, hsl(200, 80%, 60%), hsl(198,79%,29%) 2em, hsl(197,54%,10%) ); 
+    color: white;
+    font-size: 1.2em;"> 
+    <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="32" height="32" style="vertical-align: middle; margin-right: 0.5em;">
+    Kafka
 </summary>
 
-- [Video tutorials](./kafka/Videos.md)
-- [Articles](./kafka/Articles.md)
-- [Literature](./kafka/Literature.md)
+<ul style="margin-top: 1em; list-style: none; padding: 0;">
+  <!-- Subsection: Video Tutorials -->
+  <li style="margin-bottom: 1em;">
+    <details>
+      <summary style="
+        padding: 0.5em 1em;
+        margin: 0;
+        border: 1px solid #aaa;
+        border-radius: 4px;
+        background-color: hsl(210, 70%, 75%);
+        color: #333;
+        font-size: 1em;">Video tutorials</summary>
+      <ul style="margin-top: 0.5em; padding-left: 1em;">
+        <li><a href="./kafka/Videos.md" style="text-decoration: none; color: hsl(200, 80%, 40%);">Explore Video Tutorials</a></li>
+      </ul>
+    </details>
+  </li>
+
+  <!-- Subsection: Articles -->
+  <li style="margin-bottom: 1em;">
+    <details>
+      <summary style="
+        padding: 0.5em 1em;
+        margin: 0;
+        border: 1px solid #aaa;
+        border-radius: 4px;
+        background-color: hsl(210, 70%, 75%);
+        color: #333;
+        font-size: 1em;">Articles</summary>
+      <ul style="margin-top: 0.5em; padding-left: 1em;">
+        <li><a href="./kafka/Articles.md" style="text-decoration: none; color: hsl(200, 80%, 40%);">Explore Articles</a></li>
+      </ul>
+    </details>
+  </li>
+
+  <!-- Subsection: Literature -->
+  <li style="margin-bottom: 1em;">
+    <details open>
+      <summary style="
+        padding: 0.5em 1em;
+        margin: 0;
+        border: 1px solid #aaa;
+        border-radius: 4px;
+        background-color: hsl(210, 70%, 75%);
+        color: #333;
+        font-size: 1em;">Literature</summary>
+      <ul style="margin-top: 0.5em; padding-left: 1em; list-style: none;">
+        <li style="margin-bottom: 1em;">
+          <strong style="font-size: 1.1em;">Kafka: The Definitive Guide</strong>
+          <div style="display: flex; align-items: flex-start; margin-top: 0.5em;">
+            <img src="./kafka/img/Kafka:%20The%20Definitive%20Guide.png" alt="Kafka: The Definitive Guide" style="width: 100px; margin-right: 1em; border: 1px solid #ccc; border-radius: 4px;">
+            <div>
+              <p style="margin: 0.2em 0; text-align: justify;">
+                This book provides a comprehensive guide to understanding Apache Kafka, 
+                a distributed event streaming platform. It covers essential concepts like 
+                architecture, setup, use cases, and advanced topics like stream processing 
+                and message retention.
+              </p>
+              <a href="./kafka/Literature.md#kafka-the-definitive-guide" style="text-decoration: none; color: hsl(200, 80%, 40%); font-weight: bold;">More details</a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </details>
+  </li>
+</ul>
 </details>
 </div>
 
